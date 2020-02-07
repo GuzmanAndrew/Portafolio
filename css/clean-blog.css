@@ -460,3 +460,31 @@ footer .copyright {
 .img-fluid{
     box-shadow: 6px 6px 8px black;
 }
+
+.line{
+    background-color: #00796b;
+    height: 1px;
+    width: 80%;
+}
+
+.subtitle{
+    margin-left: 255px;
+}
+
+.logoEmpleoUno{
+    border-radius: 14px;
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+    margin-left: 260px;
+}
+
+.information{
+    position: relative;
+    bottom: 104px;
+    margin-left: 391px;
+}
+
+.description{
+    text-align: justify;
+}
