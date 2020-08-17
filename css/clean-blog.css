@@ -488,3 +488,24 @@ footer .copyright {
 .description{
     text-align: justify;
 }
+
+.boton-card {
+    border-radius: 10px;
+}
+
+#productos-container .list-group-item-action.active{
+	background-color: #99c84a;
+	border-color: #99c84a;
+}
+
+#productos-container .list-group+.list-group{
+	margin-top: 1em;
+}
+
+#productos-container{
+	margin-bottom: 2em;
+}
+
+.pack-uno {
+    margin-top: 15px;
+}
