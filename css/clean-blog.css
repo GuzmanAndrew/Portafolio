@@ -27,6 +27,11 @@ blockquote {
     font-style: italic;
     color: #868e96;
 }
+
+a:hover {
+    color: #26a69a;
+    text-decoration: none;
+}
 .avatar {
     width: 100%;
     border-radius:  50%;
